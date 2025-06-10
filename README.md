@@ -4,6 +4,30 @@ To enhance operational efficiency and provide actionable insights into emergency
 ## Data Set Used
 <a href= "https://github.com/Dhrisya94/Power-BI-Project/blob/799e693bd641e7352fe3e29081f623453c3216c8/Hospital%20ER_Data.csv"> Dataset</a>
 
+## STEPS IN PROJECT
+Requirement Gathering/ Business Requirements
+
+Data Walkthrough
+
+Data Connection
+
+Data Cleaning / Quality Check
+
+Data Modeling
+
+Data Processing
+
+DAX Calculations
+
+Dashboard Lay outing
+
+Charts Development and Formatting
+
+Dashboard / Report Development
+
+Insights Generation
+
+
 ## KPI’s Requirements
 
 Number of Patients:
@@ -26,19 +50,28 @@ Use an area sparkline to track daily trends and identify departments with high r
 
 ## Dashboard 1: Monthly View 
 Objective: Monitor key metrics and trends on a month-by-month basis to identify patterns and areas for improvement.
+
 Charts to Develop:
+
 Patient Admission Status: Track admitted vs. non-admitted patients.
+
 Patient Age Distribution: Group patients by 10-year age intervals.
+
 Department Referrals: Analyze referral trends across different departments.
+
 Timeliness: Measure the percentage of patients seen within 30 minutes.
+
 Gender Analysis: Visualize patient distribution by gender.
+
 Racial Demographics: Analyze patient data by race.
+
 Time Analysis: Assess patient volume by day and hour.
 
 -Dasboard View <a href="https://github.com/Dhrisya94/Power-BI-Project/blob/main/Monthly%20view.png">MONTHLY VIEW</a>
 
 ## Dashboard 2: Consolidated View 
 Objective: Provide a holistic summary of hospital performance for a selected date range.
+
 Charts to Develop:
 Similar metrics as the Monthly View, but aggregated over a customizable date range for broader insights and trend analysis
 
@@ -46,16 +79,18 @@ Similar metrics as the Monthly View, but aggregated over a customizable date ran
 
 ## Dashboard 3: Patient Details
 Objective: Offer granular insights into patient-level data to enable detailed analysis and troubleshooting.
+
 Charts to Develop: A grid displaying essential fields:
-Patient ID
-Patient Full Name
-Gender
-Age
-Admission Date
-Patient Race
-Wait Time
-Department Referral
-Admission Status
+
+Patient ID,
+Patient Full Name,
+Gender,
+Age,
+Admission Date,
+Patient Race,
+Wait Time,
+Department Referral,
+Admission Status,
 
 -Dashboard view <a href="https://github.com/Dhrisya94/Power-BI-Project/blob/main/Patient%20details.png">PATIENT DETAILS</a>
 
