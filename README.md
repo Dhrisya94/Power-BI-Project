@@ -67,7 +67,7 @@ Racial Demographics: Analyze patient data by race.
 
 Time Analysis: Assess patient volume by day and hour.
 
--Dasboard View <a href="https://github.com/Dhrisya94/Power-BI-Project/blob/main/Monthly%20view.png">MONTHLY VIEW</a>
+-Screenshot (https://github.com/Dhrisya94/Power-BI-Project/blob/main/Monthly%20view.png">)
 
 ## Dashboard 2: Consolidated View 
 Objective: Provide a holistic summary of hospital performance for a selected date range.
