@@ -67,7 +67,8 @@ Racial Demographics: Analyze patient data by race.
 
 Time Analysis: Assess patient volume by day and hour.
 
--Screenshot (https://github.com/Dhrisya94/Power-BI-Project/blob/main/Monthly%20view.png">)
+![Monthly view](https://github.com/user-attachments/assets/24e40530-ff9b-4b08-885f-c69acaf558d9)
+
 
 ## Dashboard 2: Consolidated View 
 Objective: Provide a holistic summary of hospital performance for a selected date range.
@@ -75,7 +76,8 @@ Objective: Provide a holistic summary of hospital performance for a selected dat
 Charts to Develop:
 Similar metrics as the Monthly View, but aggregated over a customizable date range for broader insights and trend analysis
 
-- Dashboard View <a href="https://github.com/Dhrisya94/Power-BI-Project/blob/main/consolidated%20view.png">CONSOLIDATED VIEW</a>
+ ![consolidated view](https://github.com/user-attachments/assets/ee024247-879c-46e9-ba32-eeee4ad46bd0)
+
 
 ## Dashboard 3: Patient Details
 Objective: Offer granular insights into patient-level data to enable detailed analysis and troubleshooting.
@@ -92,7 +94,8 @@ Wait Time,
 Department Referral,
 Admission Status,
 
--Dashboard view <a href="https://github.com/Dhrisya94/Power-BI-Project/blob/main/Patient%20details.png">PATIENT DETAILS</a>
+![Patient details](https://github.com/user-attachments/assets/1bd2e8c0-c879-49de-9708-aba9213c793f)
+
 
 # INSIGHTS
 
